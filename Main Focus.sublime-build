@@ -1,0 +1,5 @@
+{
+    "cmd": ["pdflatex", "--interaction=batchmode", "main"],
+    "selector": "text.tex.latex",
+    "file_regex": "^(...*?):([0-9]*):?([0-9]*)",
+}

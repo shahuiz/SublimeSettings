@@ -1,0 +1,44 @@
+{
+	"ignored_packages":
+	[
+		"All Autocomplete",
+                                                                  "Vintage",
+                                    ],
+	"font_size": 15,
+
+    "auto_complete": true,
+    "auto_complete_commit_on_tab": true,
+    "auto_complete_selector": "source, text",
+    "auto_find_in_selection": true,
+    "bold_folder_labels": true,
+    "close_windows_when_empty": false,
+    "ensure_newline_at_eof_on_save": true,
+    "highlight_line": true,
+    "highlight_modified_tabs": true,
+    "line_padding_bottom": 2,
+    "line_padding_top": 2,
+    "save_on_focus_lost": true,
+    "scroll_past_end": true,
+    "show_encoding": true,
+    "show_line_endings": true,
+    "spell_check": true,
+    "theme": "Default Dark.sublime-theme",
+    "translate_tabs_to_spaces": true,
+    "trim_trailing_white_space_on_save": true,
+    "ui_scale": 1.0,
+    "word_wrap": true,
+    "ignored_words":[],
+    "auto_complete_triggers":
+    [
+		  {
+		   "characters": ".",
+		   "selector": "source.python - string - comment - constant.numeric",
+		  },
+
+		  {
+		   "characters": "\\",
+		   "selector": "text.tex.latex",
+		  }
+                                    ],
+                                   "index_files": true,
+}

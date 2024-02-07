@@ -1,0 +1,24 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"All Autocomplete",
+		"AutoFileName",
+		"citebibtex",
+		"LaTeX-cwl",
+		"LaTeXTools",
+		"Package Control",
+	],
+	"channels":
+	[
+		"https://packagecontrol.io/channel_v3.json",
+	],
+	"repositories":
+	[
+		"https://github.com/note286/citebibtex",
+	],
+}
